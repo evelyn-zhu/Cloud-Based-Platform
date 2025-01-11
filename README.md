@@ -1,7 +1,13 @@
-# Mobile-Cloud Analytics Platform
+# 🚀 Mobile-Cloud Analytics Platform
 
-## Project Overview
-A distributed mobile-to-cloud application demonstrating modern cloud architecture through the integration of mobile development, RESTful web services, third-party APIs, and real-time analytics.
+**Author**: Evelyn Zhu  
+**Course**: Distributed Systems Project (CMU Heinz 95-702)  
+
+---
+
+## 📘 Project Overview
+
+This project demonstrates the development of a **Distributed mobile-to-cloud application**, integrating mobile-to-cloud communication, RESTful web services, and analytics dashboards. The platform is designed to leverage a 3rd-party API, a cloud-hosted MongoDB database, and Docker-based deployment.
 
 ![System Architecture](docs/Project4-Diagram-Full.png)
 
